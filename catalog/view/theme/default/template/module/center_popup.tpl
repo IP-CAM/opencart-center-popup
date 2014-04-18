@@ -35,4 +35,5 @@ $("#floating").animate({ top: ($(window).height() / 2 - img_h / 2 + $(document).
 function closeMe() {
 $("#overPage,#floating").hide();
 }
-// ]]></script></div>
+// ]]></script>
+</div>

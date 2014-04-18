@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']    = 'center_popup';
+$_['heading_title']			= 'Center popup for Opencart';
 
 // Text
 $_['text_module']			= 'Modules';
-$_['text_success']			= 'Success: You have modified module Yahoo! Messenger!';
+$_['text_success']			= 'Success: You have modified module Center popup for Opencart!';
 $_['text_content_top']		= 'Content Top';
 $_['text_content_bottom']	= 'Content Bottom';
 $_['text_column_left']		= 'Column Left';
@@ -25,7 +25,7 @@ $_['entry_status']			= 'Status:';
 $_['entry_sort_order']		= 'Sort Order:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify module Yahoo Messanger!';
-$_['error_code']       = 'Code Required';
-$_['error_opi_img']    = 'Please select the OPI Image code';
+$_['error_permission']		= 'Warning: You do not have permission to modify module Center popup for Opencart!';
+$_['error_code']			= 'Code Required';
+$_['error_opi_img']			= 'Please select the OPI Image code';
 ?>
