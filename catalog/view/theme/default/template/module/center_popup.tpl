@@ -3,7 +3,7 @@
 		<a href="javascript:closeMe();" style="color: #fff;float: left;"><?php echo $close; ?></a></div>
 	<div id="floating" style="text-align: right; background: transparent; display: none; z-index: 900; position: absolute;">
 		<a href="javascript:closeMe();" style="color: #fff;float:right;"><?php echo $close; ?></a><br />
-		<a href="<?php echo $image_link; ?>" target="_blank"><img src="<?php echo $image_url; ?>"  alt="<?php echo $image_title; ?>" width="<?php echo $image_width; ?>" height="<?php echo $image_height; ?>" /></a></div>
+		<a href="<?php echo $image_link; ?>" target="<?php echo $target; ?>"><img src="<?php echo $image_url; ?>"  alt="<?php echo $image_title; ?>" width="<?php echo $image_width; ?>" height="<?php echo $image_height; ?>" /></a></div>
 	<script type="text/javascript">// <![CDATA[
 var lastScroll;
 var delay = 30;
